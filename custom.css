@@ -1,7 +1,7 @@
 #fname{
     margin-top: 150px;
 }
-.leftspace{
+#leftspace{
     margin-left:60px;
     
 }
@@ -10,4 +10,7 @@
 }
 .topspace{
     margin-top: 90px;
+}
+.leftextra{
+    200px;
 }
